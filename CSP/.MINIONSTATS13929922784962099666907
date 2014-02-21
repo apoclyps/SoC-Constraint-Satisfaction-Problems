@@ -1,0 +1,2 @@
+#"CommandLineArguments" "Filename" "FirstNodeTime" "InitialPropagate" "MinionVersion" "Nodes" "ParsingTime" "Preprocess" "RandomSeed" "Satisfiable" "SetupTime" "SolutionsFound" "SolveTime" "TimeOut" "TotalTime" 
+farmer/farmer.eprime.minion,-printsolsonly,-preprocess,SACBounds,-tableout,.MINIONSTATS13929922784962099666907,-solsout,.MINIONSOLS13929922784961489974203 farmer/farmer.eprime.minion -4.25211e-019 -4.25211e-019 0 1 0.0156001 SACBounds 1392980078 1 -4.25211e-019 1 0.140401 0 0.156001 

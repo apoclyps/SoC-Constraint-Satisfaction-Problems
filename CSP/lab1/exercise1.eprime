@@ -1,0 +1,4 @@
+language ESSENCE' 1.0
+find m : matrix indexed by [ int(0..9) ] of int(1..10)
+such that
+alldifferent(m), m[8]<m[7]

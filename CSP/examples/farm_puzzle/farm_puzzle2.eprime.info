@@ -1,0 +1,16 @@
+MinionCommandLineArguments:examples/farm_puzzle/farm_puzzle2.eprime.minion,-printsolsonly,-preprocess,SACBounds,-tableout,.MINIONSTATS13929921549751533680534,-solsout,.MINIONSOLS13929921549751761911034
+MinionFilename:examples/farm_puzzle/farm_puzzle2.eprime.minion
+MinionFirstNodeTime:0
+MinionInitialPropagate:0
+MinionMinionVersion:0
+MinionNodes:1
+MinionParsingTime:0
+MinionPreprocess:SACBounds
+MinionRandomSeed:1392975003
+MinionSatisfiable:1
+MinionSetupTime:0
+MinionSolutionsFound:1
+MinionSolveTime:0.171601
+MinionTimeOut:0
+MinionTotalTime:0.171601
+SavileRowTotalTime:0.058

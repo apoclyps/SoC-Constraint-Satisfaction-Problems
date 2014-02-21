@@ -1,0 +1,2 @@
+#"CommandLineArguments" "Filename" "FirstNodeTime" "InitialPropagate" "MinionVersion" "Nodes" "ParsingTime" "Preprocess" "RandomSeed" "Satisfiable" "SetupTime" "SolutionsFound" "SolveTime" "TimeOut" "TotalTime" 
+examples/farm_puzzle/farm_puzzle2.eprime.minion,-printsolsonly,-preprocess,SACBounds,-tableout,.MINIONSTATS13929921549751533680534,-solsout,.MINIONSOLS13929921549751761911034 examples/farm_puzzle/farm_puzzle2.eprime.minion 0 0 0 1 0 SACBounds 1392975003 1 0 1 0.171601 0 0.171601 

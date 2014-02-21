@@ -1,0 +1,7 @@
+language ESSENCE' 1.0
+$ minion Nodes: 1
+$ minion TotalTime: 0.171601
+$ minion TimeOut: 0
+$ Savile Row TotalTime: 0.058
+letting hens be 3
+letting pigs be 4
