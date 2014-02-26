@@ -1,0 +1,16 @@
+MinionCommandLineArguments:C:\Users\apoclyps\git\CSP\CSP\examples\sendMoreMoney\sendMoreMoney.eprime.minion,-printsolsonly,-preprocess,SACBounds,-tableout,.MINIONSTATS13929955155281954462389,-solsout,.MINIONSOLS13929955155281415665555
+MinionFilename:C:\Users\apoclyps\git\CSP\CSP\examples\sendMoreMoney\sendMoreMoney.eprime.minion
+MinionFirstNodeTime:-4.25211e-019
+MinionInitialPropagate:-4.25211e-019
+MinionMinionVersion:0
+MinionNodes:1
+MinionParsingTime:-4.25211e-019
+MinionPreprocess:SACBounds
+MinionRandomSeed:1392991883
+MinionSatisfiable:1
+MinionSetupTime:-4.25211e-019
+MinionSolutionsFound:1
+MinionSolveTime:0.140401
+MinionTimeOut:0
+MinionTotalTime:0.140401
+SavileRowTotalTime:0.09

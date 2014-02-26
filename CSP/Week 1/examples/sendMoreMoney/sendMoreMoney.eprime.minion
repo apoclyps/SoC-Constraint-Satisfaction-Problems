@@ -1,0 +1,39 @@
+MINION 3
+# CSETopLevel_number = 0
+# CSETopLevel_eliminated_expressions = 0
+# CSETopLevel_total_size = 0
+# CSE_number = 1
+# CSE_eliminated_expressions = 2
+# CSE_total_size = 9
+**VARIABLES**
+DISCRETE e #
+{0..9}
+DISCRETE n #
+{0..9}
+DISCRETE d #
+{0..9}
+DISCRETE o #
+{0..9}
+DISCRETE r #
+{0..9}
+DISCRETE y #
+{0..9}
+DISCRETE s #
+{1..9}
+DISCRETE m #
+{1..9}
+DISCRETE aux0 #CSE: 2 occurrences of: (d + e + m + n + o + r + s + y)
+{2..72}
+**SEARCH**
+PRINT[[e],[n],[d],[o],[r],[y],[s],[m]]
+VARORDER STATIC [e,n,d,o,r,y,s,m]
+VARORDER AUX [aux0]
+**CONSTRAINTS**
+gacalldiff([d, e, m, n, o, r, s, y])
+ineq(28, aux0, 0)
+ineq(aux0, 44, 0)
+sumleq([d,e,m,n,o,r,s,y],aux0)
+sumgeq([d,e,m,n,o,r,s,y],aux0)
+weightedsumleq([1,91,-9000,-90,-900,10,1000,-1],[d,e,m,n,o,r,s,y],0)
+weightedsumgeq([1,91,-9000,-90,-900,10,1000,-1],[d,e,m,n,o,r,s,y],0)
+**EOF**
