@@ -1,0 +1,23 @@
+language ESSENCE' 1.0
+$ minion Nodes: 6
+$ minion TotalTime: 0.0936006
+$ minion TimeOut: 0
+$ Savile Row TotalTime: 0.111
+letting a1 be 1
+letting a2 be 1
+letting a3 be 3
+letting a4 be 3
+letting a5 be 4
+letting a6 be 4
+letting b1 be 6
+letting b2 be 6
+letting b3 be 2
+letting b4 be 2
+letting b5 be 8
+letting b6 be 8
+letting c1 be 5
+letting c2 be 5
+letting c3 be 9
+letting c4 be 9
+letting c5 be 7
+letting c6 be 7
