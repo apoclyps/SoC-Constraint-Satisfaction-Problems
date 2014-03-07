@@ -1,0 +1,2 @@
+#"CommandLineArguments" "Filename" "FirstNodeTime" "InitialPropagate" "MinionVersion" "Nodes" "ParsingTime" "Preprocess" "RandomSeed" "Satisfiable" "SetupTime" "SolutionsFound" "SolveTime" "TimeOut" "TotalTime" 
+primes.eprime.minion,-printsolsonly,-preprocess,SACBounds,-tableout,.MINIONSTATS13942056012831624740541,-solsout,.MINIONSOLS13942056012831717423563 primes.eprime.minion 0.0156001 0 0 13 0 SACBounds 1394209905 1 0 1 0.109201 0 0.124801 

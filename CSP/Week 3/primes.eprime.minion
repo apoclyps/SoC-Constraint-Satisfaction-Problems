@@ -1,0 +1,177 @@
+MINION 3
+# CSETopLevel_number = 0
+# CSETopLevel_eliminated_expressions = 0
+# CSETopLevel_total_size = 0
+# CSE_number = 10
+# CSE_eliminated_expressions = 20
+# CSE_total_size = 40
+**VARIABLES**
+DISCRETE a1 #
+{2..73}
+**CONSTRAINTS**
+w-inintervalset(a1, [2,3,5,5,7,7,11,11,13,13,17,17,19,19,23,23,29,29,31,31,37,37,41,41,43,43,47,47,53,53,59,59,61,61,67,67,71,71,73,73])
+**VARIABLES**
+DISCRETE a2 #
+{2..73}
+**CONSTRAINTS**
+w-inintervalset(a2, [2,3,5,5,7,7,11,11,13,13,17,17,19,19,23,23,29,29,31,31,37,37,41,41,43,43,47,47,53,53,59,59,61,61,67,67,71,71,73,73])
+**VARIABLES**
+DISCRETE a3 #
+{2..73}
+**CONSTRAINTS**
+w-inintervalset(a3, [2,3,5,5,7,7,11,11,13,13,17,17,19,19,23,23,29,29,31,31,37,37,41,41,43,43,47,47,53,53,59,59,61,61,67,67,71,71,73,73])
+**VARIABLES**
+DISCRETE a4 #
+{2..73}
+**CONSTRAINTS**
+w-inintervalset(a4, [2,3,5,5,7,7,11,11,13,13,17,17,19,19,23,23,29,29,31,31,37,37,41,41,43,43,47,47,53,53,59,59,61,61,67,67,71,71,73,73])
+**VARIABLES**
+DISCRETE a5 #
+{2..73}
+**CONSTRAINTS**
+w-inintervalset(a5, [2,3,5,5,7,7,11,11,13,13,17,17,19,19,23,23,29,29,31,31,37,37,41,41,43,43,47,47,53,53,59,59,61,61,67,67,71,71,73,73])
+**VARIABLES**
+DISCRETE a6 #
+{2..73}
+**CONSTRAINTS**
+w-inintervalset(a6, [2,3,5,5,7,7,11,11,13,13,17,17,19,19,23,23,29,29,31,31,37,37,41,41,43,43,47,47,53,53,59,59,61,61,67,67,71,71,73,73])
+**VARIABLES**
+DISCRETE b1 #
+{2..73}
+**CONSTRAINTS**
+w-inintervalset(b1, [2,3,5,5,7,7,11,11,13,13,17,17,19,19,23,23,29,29,31,31,37,37,41,41,43,43,47,47,53,53,59,59,61,61,67,67,71,71,73,73])
+**VARIABLES**
+DISCRETE b2 #
+{2..73}
+**CONSTRAINTS**
+w-inintervalset(b2, [2,3,5,5,7,7,11,11,13,13,17,17,19,19,23,23,29,29,31,31,37,37,41,41,43,43,47,47,53,53,59,59,61,61,67,67,71,71,73,73])
+**VARIABLES**
+DISCRETE b3 #
+{2..73}
+**CONSTRAINTS**
+w-inintervalset(b3, [2,3,5,5,7,7,11,11,13,13,17,17,19,19,23,23,29,29,31,31,37,37,41,41,43,43,47,47,53,53,59,59,61,61,67,67,71,71,73,73])
+**VARIABLES**
+DISCRETE b4 #
+{2..73}
+**CONSTRAINTS**
+w-inintervalset(b4, [2,3,5,5,7,7,11,11,13,13,17,17,19,19,23,23,29,29,31,31,37,37,41,41,43,43,47,47,53,53,59,59,61,61,67,67,71,71,73,73])
+**VARIABLES**
+DISCRETE b5 #
+{2..73}
+**CONSTRAINTS**
+w-inintervalset(b5, [2,3,5,5,7,7,11,11,13,13,17,17,19,19,23,23,29,29,31,31,37,37,41,41,43,43,47,47,53,53,59,59,61,61,67,67,71,71,73,73])
+**VARIABLES**
+DISCRETE b6 #
+{2..73}
+**CONSTRAINTS**
+w-inintervalset(b6, [2,3,5,5,7,7,11,11,13,13,17,17,19,19,23,23,29,29,31,31,37,37,41,41,43,43,47,47,53,53,59,59,61,61,67,67,71,71,73,73])
+**VARIABLES**
+DISCRETE c1 #
+{2..73}
+**CONSTRAINTS**
+w-inintervalset(c1, [2,3,5,5,7,7,11,11,13,13,17,17,19,19,23,23,29,29,31,31,37,37,41,41,43,43,47,47,53,53,59,59,61,61,67,67,71,71,73,73])
+**VARIABLES**
+DISCRETE c2 #
+{2..73}
+**CONSTRAINTS**
+w-inintervalset(c2, [2,3,5,5,7,7,11,11,13,13,17,17,19,19,23,23,29,29,31,31,37,37,41,41,43,43,47,47,53,53,59,59,61,61,67,67,71,71,73,73])
+**VARIABLES**
+DISCRETE c3 #
+{2..73}
+**CONSTRAINTS**
+w-inintervalset(c3, [2,3,5,5,7,7,11,11,13,13,17,17,19,19,23,23,29,29,31,31,37,37,41,41,43,43,47,47,53,53,59,59,61,61,67,67,71,71,73,73])
+**VARIABLES**
+DISCRETE c4 #
+{2..73}
+**CONSTRAINTS**
+w-inintervalset(c4, [2,3,5,5,7,7,11,11,13,13,17,17,19,19,23,23,29,29,31,31,37,37,41,41,43,43,47,47,53,53,59,59,61,61,67,67,71,71,73,73])
+**VARIABLES**
+DISCRETE c5 #
+{2..73}
+**CONSTRAINTS**
+w-inintervalset(c5, [2,3,5,5,7,7,11,11,13,13,17,17,19,19,23,23,29,29,31,31,37,37,41,41,43,43,47,47,53,53,59,59,61,61,67,67,71,71,73,73])
+**VARIABLES**
+DISCRETE c6 #
+{2..73}
+**CONSTRAINTS**
+w-inintervalset(c6, [2,3,5,5,7,7,11,11,13,13,17,17,19,19,23,23,29,29,31,31,37,37,41,41,43,43,47,47,53,53,59,59,61,61,67,67,71,71,73,73])
+**VARIABLES**
+DISCRETE z1 #
+{2..73}
+**CONSTRAINTS**
+w-inintervalset(z1, [2,3,5,5,7,7,11,11,13,13,17,17,19,19,23,23,29,29,31,31,37,37,41,41,43,43,47,47,53,53,59,59,61,61,67,67,71,71,73,73])
+**VARIABLES**
+DISCRETE z2 #
+{2..73}
+**CONSTRAINTS**
+w-inintervalset(z2, [2,3,5,5,7,7,11,11,13,13,17,17,19,19,23,23,29,29,31,31,37,37,41,41,43,43,47,47,53,53,59,59,61,61,67,67,71,71,73,73])
+**VARIABLES**
+DISCRETE z3 #
+{2..73}
+**CONSTRAINTS**
+w-inintervalset(z3, [2,3,5,5,7,7,11,11,13,13,17,17,19,19,23,23,29,29,31,31,37,37,41,41,43,43,47,47,53,53,59,59,61,61,67,67,71,71,73,73])
+**VARIABLES**
+DISCRETE aux0 #CSE: 2 occurrences of: (a1 + a3 + a5 + b1 + b3 + b5 + c1 + c3 + c5)
+{18..657}
+DISCRETE aux1 #CSE: 2 occurrences of: (c1 + c3 + c5)
+{6..219}
+DISCRETE aux2 #CSE: 2 occurrences of: (b1 + b3 + b5)
+{6..219}
+DISCRETE aux3 #CSE: 2 occurrences of: (a1 + a3 + a5)
+{6..219}
+BOOL aux4 #CSE: 2 occurrences of: (a3<c3)
+BOOL aux5 #CSE: 2 occurrences of: (a1<c1)
+BOOL aux6 #CSE: 2 occurrences of: (b3<a3)
+BOOL aux7 #CSE: 2 occurrences of: (b1<a1)
+BOOL aux8 #CSE: 2 occurrences of: (c1<b1)
+BOOL aux9 #CSE: 2 occurrences of: (c3<b3)
+**SEARCH**
+PRINT[[a1],[a2],[a3],[a4],[a5],[a6],[b1],[b2],[b3],[b4],[b5],[b6],[c1],[c2],[c3],[c4],[c5],[c6],[z1],[z2],[z3]]
+VARORDER STATIC [a1,a2,a3,a4,a5,a6,b1,b2,b3,b4,b5,b6,c1,c2,c3,c4,c5,c6,z1,z2,z3]
+VARORDER AUX [aux0,aux1,aux2,aux3,aux4,aux5,aux6,aux7,aux8,aux9]
+**CONSTRAINTS**
+reify(ineq(a3, c3, -1), aux4)
+reify(ineq(a1, c1, -1), aux5)
+reify(ineq(b3, a3, -1), aux6)
+reify(ineq(b1, a1, -1), aux7)
+reify(ineq(c1, b1, -1), aux8)
+reify(ineq(c3, b3, -1), aux9)
+gaceq(a1,a2)
+gaceq(a3,a4)
+gaceq(a5,a6)
+gaceq(b1,b2)
+gaceq(b3,b4)
+gaceq(b5,b6)
+gaceq(c1,c2)
+gaceq(c3,c4)
+gaceq(c5,c6)
+watched-or({watched-and({w-literal(aux7,1),w-literal(aux6,1)}),watched-and({w-literal(aux7,1),ineq(b5, a5, -1)}),watched-and({w-literal(aux6,1),ineq(b3, a5, -1)})})
+watched-or({watched-and({w-literal(aux8,1),w-literal(aux9,1)}),watched-and({w-literal(aux8,1),ineq(c5, b5, -1)}),watched-and({w-literal(aux9,1),ineq(c3, b5, -1)})})
+watched-or({watched-and({w-literal(aux5,1),w-literal(aux4,1)}),watched-and({w-literal(aux5,1),ineq(a5, c5, -1)}),watched-and({w-literal(aux4,1),ineq(a3, c5, -1)})})
+gacalldiff([a1, a3, a5])
+ineq(9, aux3, 0)
+ineq(aux3, 216, 0)
+gacalldiff([b1, b3, b5])
+ineq(9, aux2, 0)
+ineq(aux2, 216, 0)
+gacalldiff([c1, c3, c5])
+ineq(9, aux1, 0)
+ineq(aux1, 216, 0)
+gacalldiff([a1, a3, a5, b1, b3, b5, c1, c3, c5])
+ineq(54, aux0, 0)
+ineq(aux0, 621, 0)
+sumleq([a1,a3,a5,b1,b3,b5,c1,c3,c5],aux0)
+sumgeq([a1,a3,a5,b1,b3,b5,c1,c3,c5],aux0)
+sumleq([c1,c3,c5],aux1)
+sumgeq([c1,c3,c5],aux1)
+sumleq([b1,b3,b5],aux2)
+sumgeq([b1,b3,b5],aux2)
+sumleq([a1,a3,a5],aux3)
+sumgeq([a1,a3,a5],aux3)
+weightedsumleq([1,-1,-1],[a1,a3,a5],z1)
+weightedsumgeq([1,-1,-1],[a1,a3,a5],z1)
+weightedsumleq([1,-1,-1],[b1,b3,b5],z2)
+weightedsumgeq([1,-1,-1],[b1,b3,b5],z2)
+weightedsumleq([1,-1,-1],[c1,c3,c5],z3)
+weightedsumgeq([1,-1,-1],[c1,c3,c5],z3)
+**EOF**

@@ -1,0 +1,16 @@
+MinionCommandLineArguments:primes.param.minion,-printsolsonly,-preprocess,SACBounds,-tableout,.MINIONSTATS1394205660599192045923,-solsout,.MINIONSOLS13942056605992093854637
+MinionFilename:primes.param.minion
+MinionFirstNodeTime:0.312002
+MinionInitialPropagate:0.0156001
+MinionMinionVersion:0
+MinionNodes:13
+MinionParsingTime:0
+MinionPreprocess:SACBounds
+MinionRandomSeed:1394210985
+MinionSatisfiable:1
+MinionSetupTime:0
+MinionSolutionsFound:1
+MinionSolveTime:0.109201
+MinionTimeOut:0
+MinionTotalTime:0.436803
+SavileRowTotalTime:0.373
